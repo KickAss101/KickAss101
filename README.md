@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KickAss101
 - 👀 I’m interested in android, web, IT, cybersecurity
-- 🌱 I’m currently learning android(kotlin) a bit, networking
 - 💞️ I’m just hoping to get a job :\ in any decent IT position
 - 📫 How to reach me: jaswanthsunkara@protonmail.com
