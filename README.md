@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @KickAss101
-- 👀 I’m interested in android, web, IT, cybersecurity
-- 💞️ I’m just hoping to get a job :\ in any decent IT position
-- 📫 How to reach me: jaswanthsunkara@protonmail.com
+## Hi, I’m KickAss101
+```
+I’m interested in android, web, IT, cybersecurity
+I’m looking to get a job in any decent IT position
+Reach me here: jaswanthsunkara@protonmail.com
+```
