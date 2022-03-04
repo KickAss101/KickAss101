@@ -1,5 +1,5 @@
 ## Hi, I’m KickAss101
 ```
-Focusing on Security Analyst
+Learning infosec, bug bounty
 Reach me here: jaswanthsunkara@protonmail.com
 ```
